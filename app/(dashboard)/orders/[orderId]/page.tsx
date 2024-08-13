@@ -30,3 +30,5 @@ const OrderDetails = async ({ params }: { params: { orderId: string }}) => {
 }
 
 export default OrderDetails
+
+export const dynamic = "force-dynamic";

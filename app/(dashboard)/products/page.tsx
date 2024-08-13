@@ -55,3 +55,4 @@ const Products = () => {
 };
 
 export default Products;
+export const dynamic = "force-dynamic";

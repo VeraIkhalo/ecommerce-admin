@@ -7,3 +7,5 @@ const CreateProduct = () => {
 }
 
 export default CreateProduct
+
+export const dynamic = "force-dynamic";
