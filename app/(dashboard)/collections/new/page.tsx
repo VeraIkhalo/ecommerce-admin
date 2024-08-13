@@ -7,3 +7,5 @@ const CreateCollection = () => {
 }
 
 export default CreateCollection
+
+export const dynamic = "force-dynamic";
